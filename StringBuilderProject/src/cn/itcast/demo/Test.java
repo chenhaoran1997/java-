@@ -25,6 +25,6 @@ public class Test {
         System.out.println("---------------------------");
         String s = sb4.toString();
         System.out.println("字符串s: " + s);
-        
+
     }
 }
