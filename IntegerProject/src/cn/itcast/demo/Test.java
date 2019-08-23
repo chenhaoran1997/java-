@@ -1,7 +1,7 @@
 package cn.itcast.demo;
 
 /*
-    除了Character类以外，其他的七种包装类都有parseXXX（）方法
+    除了Character类以外，其他的七种包装类都有parseXXX（）方法;
     因为如果字符串想转换成char类型的数据，可以通过String类中的方法toCharArray(),charAt();
  */
 public class Test {
