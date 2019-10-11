@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e3dcbae-7d76-4405-ad1a-cbfdaefd5781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HttpClient/src/cn/dashz/HttpClientTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/cn/dashz/demo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleDotCom/src/cn/dashz/demo/SimpleDotCom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleDotCom/src/cn/dashz/demo/SimpleDotComTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwingTest/src/cn/dashz/demo1/SimpleGuil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SwingTest/src/cn/dashz/demo2/SimpleGuilB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法题/src/cn/dashz/最长公共前缀/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法题/src/cn/dashz/最长公共前缀/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法题/src/cn/dashz/计算方程/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../算法题/src/cn/dashz/计算方程/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dashz/demo1/SocketTEST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dashz/demo2/SocketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/dashz/demo3/SocketTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e3dcbae-7d76-4405-ad1a-cbfdaefd5781" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +105,7 @@
       <updated>1570454543107</updated>
       <workItem from="1570454549248" duration="1356000" />
       <workItem from="1570607944115" duration="4315000" />
-      <workItem from="1570710667135" duration="7251000" />
+      <workItem from="1570710667135" duration="8004000" />
     </task>
     <servers />
   </component>
